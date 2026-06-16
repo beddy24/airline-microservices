@@ -17,8 +17,8 @@
     <description/>
 
     <modules>
+        <module>location-service</module>
 
-        <module>user-services</module>
 
     </modules>
 
